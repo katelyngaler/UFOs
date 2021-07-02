@@ -9,12 +9,18 @@ body {
     text-align: center;
   }
 
-  table{
-      table-layout:fixed;
+  h3 {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
-  td{
+  /* table{
+      table-layout:fixed;
       word-wrap: break-word;
-  }
+  } */
+
+  /* td{
+      word-wrap: break-word;
+  } */
 
   
